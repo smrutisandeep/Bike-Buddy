@@ -7,7 +7,7 @@
 //
 
 import MapKit
-
+// import statements
 class Artwork: NSObject, MKAnnotation {
     let locationName: String
     let discipline: String
